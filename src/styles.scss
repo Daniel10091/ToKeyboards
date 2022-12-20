@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('./assets/styles/variables.css');
+@import url('./assets/styles/fonts.css');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--Poppins);
+}
+
+*::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: var(--Gunmetal);
+  // background-color: #f8f8f8;
+}

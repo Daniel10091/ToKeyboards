@@ -1,0 +1,15 @@
+:root {
+  --White: #FFFFFF;
+  --Black: #000000;
+  
+  --Gunmetal: #2E3440;
+  --TerraCotta: #ED6A5A;
+  --PaleSpringBud: #F4F1BB;
+  --Opal: #9BC1BC;
+  --Independence: #5D576B;
+
+  /* SIZES */
+
+  --header-padding-inline: 12rem;
+  --header-items-size: 40px;
+}

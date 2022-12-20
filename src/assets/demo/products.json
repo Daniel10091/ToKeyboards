@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "code": "",
+    "image": "",
+    "title": "Produto 1",
+    "description": "",
+    "price": "$20.00",
+    "category": "",
+    "rating": 5,
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "code": "",
+    "image": "",
+    "title": "Produto 2",
+    "description": "",
+    "price": "$20.00",
+    "category": "",
+    "rating": 5,
+    "quantity": 1
+  }
+]
